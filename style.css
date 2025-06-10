@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  background-color: black;
+  color: white;
+  font-family: sans-serif;
+}
+h1 {
+  position: absolute;
+  top: 10px;
+  left: 20px;
+  z-index: 10;
+}
+#controls {
+  position: absolute;
+  top: 50px;
+  left: 20px;
+  z-index: 10;
+  background: rgba(0, 0, 0, 0.6);
+  padding: 10px;
+  border-radius: 8px;
+}
